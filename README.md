@@ -4,7 +4,7 @@ around.
 
 To build the program, type in shell.  
 ```bash 
-make buildWheelProg.mk
+make -f buildWheelProg.mk
 ```
 
 The executable will be available at `./exe/bicycleWheelProblem.exe`
